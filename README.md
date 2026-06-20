@@ -1,7 +1,6 @@
 👋 Hi, I'm Sahil
 
 Full-Stack Developer • Cloud Explorer ☁️
-
 ━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🧑 About Me
@@ -10,7 +9,6 @@ Full-Stack Developer • Cloud Explorer ☁️
 📚 Learning Cloud & System Design
 🚀 Full-Stack Development
 🌍 Open Source Enthusiast
-
 ━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 💻 Tech Stack
@@ -21,15 +19,6 @@ Full-Stack Developer • Cloud Explorer ☁️
 ☁️ Cloud (Learning)
 🐧 Linux
 🔧 Git GitHub
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-🚀 Featured Projects
-📦 RentHub
-📦 Portfolio Website
-📦 Weather App
-📦 Task Manager
-
 ━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 📈 GitHub Analytics
