@@ -23,4 +23,8 @@ Web Developer • Cloud Explorer ☁️
 ━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 📈 GitHub Analytics
+## 🐍 Contribution Snake
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sahil-commit/Sahil-commit/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
+</p>
