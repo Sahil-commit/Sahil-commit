@@ -1,16 +1,36 @@
-## Hi there 👋
+👋 Hi, I'm Sahil
 
-<!--
-**Sahil-commit/Sahil-commit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer • Cloud Explorer ☁️
 
-Here are some ideas to get you started:
+━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧑 About Me
+
+⚡ Building real-world projects
+📚 Learning Cloud & System Design
+🚀 Full-Stack Development
+🌍 Open Source Enthusiast
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+💻 Tech Stack
+
+⚡ HTML CSS JavaScript
+🐍 Python Flask
+🛢 MySQL SQLite
+☁️ Cloud (Learning)
+🐧 Linux
+🔧 Git GitHub
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🚀 Featured Projects
+📦 RentHub
+📦 Portfolio Website
+📦 Weather App
+📦 Task Manager
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📈 GitHub Analytics
+
