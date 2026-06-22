@@ -21,28 +21,16 @@ class Sahil {
 
         this.role = "Full Stack Web Developer";
 
-        this.education = "B.Sc. Information Technology";
-
         this.goal = "MCA | Software Engineer";
 
         this.location = "Mumbai, India 🇮🇳";
 
-        this.currentProject = "RentHub";
-
         this.learning = [
-            "HTML",
-            "CSS",
-            "JavaScript",
-            "React",
-            "Node.js",
-            "Express",
-            "MongoDB"
+            "HTML", "CSS", "JavaScript", "React", "Node.js", "Express", "MongoDB"
         ];
 
         this.brainFuel = [
-            "☕ Coffee",
-            "💻 Coding",
-            "🚀 Building Projects"
+            "☕ Coffee", "💻 Coding","🚀 Building Projects"
         ];
 
         this.superpower =
@@ -110,14 +98,11 @@ class Sahil {
 
 <!-- ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white) -->
 
-</div>
 
 ---
 
 # 🚀 Currently Working On
 
-- 💻 RentHub
-- 🌐 MERN Stack
 - 📚 Data Structures & Algorithms
 - ☁ Cloud Computing
 - 🤖 AI Tools
