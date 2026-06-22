@@ -8,7 +8,7 @@
 # 👋 Hey, I'm Sahil Pawar
 
 <img
-  src="https://i.pinimg.com/originals/e3/82/69/e38269b2ad3d40bb1ec0231b6fd88c01.gif"
+  src=["https://i.pinimg.com/originals/e3/82/69/e38269b2ad3d40bb1ec0231b6fd88c01.gif"](https://i.pinimg.com/originals/97/8b/9e/978b9e2015012ecf51833b66f4e55357.gif)
   width="220"
   align="right"
 />
@@ -96,7 +96,7 @@ class Sahil {
 
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 <!-- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) -->
 
