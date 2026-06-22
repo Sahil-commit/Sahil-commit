@@ -1,9 +1,4 @@
-<p align="center">
-  <img
-    src="YOUR_BANNER_IMAGE_LINK"
-    alt="Sahil Pawar"
-    width="100%">
-</p>
+
 
 # 👋 Hey, I'm Sahil Pawar
 
