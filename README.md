@@ -75,7 +75,7 @@ class Sahil {
 ---
 ---
 
-# 🚀 Currently Working On
+<!--# 🚀 Currently Working On
 
 - 📚 Data Structures & Algorithms
 - ☁ Cloud Computing
@@ -95,7 +95,7 @@ class Sahil {
 
 ---
 
-# 🔥 GitHub Streak
+<!--# 🔥 GitHub Streak
 
 <p align="center">
 
