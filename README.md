@@ -3,7 +3,7 @@
 # 👋 Hey, I'm Sahil Pawar
 
 <img
-  src="https://in.pinterest.com/pin/893260907321320404/"
+  src="https://v1.pinimg.com/videos/mc/720p/82/2d/a3/822da3b6ba4d9c59f56c1fdd78634d65.mp4"
   width="220"
   align="right"
 />
